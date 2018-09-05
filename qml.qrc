@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/PopupFrame/CustomMouseArea.qml</file>
+        <file>qml/PopupFrame/PopupFrame.qml</file>
+        <file>qml/PopupFrame/PopupFrameContentItem.qml</file>
+        <file>qtquickcontrols2.conf</file>
+    </qresource>
+</RCC>
